@@ -1,0 +1,1 @@
+(function(){var t="/oldbrowser";if(!(location.pathname.indexOf(t)>-1))try{new Function('return import("data:text/javascript,export const meta = import.meta;")')().catch(function(){location=t})}catch(o){location=t}})();
